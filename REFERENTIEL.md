@@ -34,21 +34,21 @@
 
 | Compétences  | Commentaires de l'apprenant |
 | ------------- | ------------- |
-|Développer la couche de persistance d’une application (web, hybride, mobile ou desktop), selon l’architecture prévue, afin que les bases de données et systèmes de cache soient performants et sécurisés. | |
-|Utiliser un ou plusieurs langages de programmation spécifiques au développement back-end, pour produire un code qui satisfasse aux exigences qualité, sécurité et d’éco-conception d’une application (web, hybride, mobile ou desktop). | |
-|Implémenter un système de paiement et une stratégie de monétisation, afin de permettre une activité de commercialisation via l’application développée, dans le respect des contraintes légales correspondantes. | |
-|Développer une API sécurisée, afin de permettre à des services tiers de consommer des données produites par une application au travers de formats ouverts. | |
-|Tester la partie back-end d’une application (web, hybride, mobile ou desktop), d’un point de vue fonctionnel et technique afin de garantir sa conformité vis-à-vis des spécifications, l’absence de dysfonctionnements et d’assurer la non-régression des composants implémentés. | |
-|Industrialiser le développement de la partie back-end d’une application (web, hybride, mobile ou desktop), en automatisant les processus d’assurance qualité et d’optimisation technique, pour préparer le déploiement de l’application et garantir sa mise en production. | |
+|Développer la couche de persistance d’une application (web, hybride, mobile ou desktop), selon l’architecture prévue, afin que les bases de données et systèmes de cache soient performants et sécurisés. | pas maitriser |
+|Utiliser un ou plusieurs langages de programmation spécifiques au développement back-end, pour produire un code qui satisfasse aux exigences qualité, sécurité et d’éco-conception d’une application (web, hybride, mobile ou desktop). |pas maitriser |
+|Implémenter un système de paiement et une stratégie de monétisation, afin de permettre une activité de commercialisation via l’application développée, dans le respect des contraintes légales correspondantes. | pas maitriser|
+|Développer une API sécurisée, afin de permettre à des services tiers de consommer des données produites par une application au travers de formats ouverts. |pas maitriser |
+|Tester la partie back-end d’une application (web, hybride, mobile ou desktop), d’un point de vue fonctionnel et technique afin de garantir sa conformité vis-à-vis des spécifications, l’absence de dysfonctionnements et d’assurer la non-régression des composants implémentés. |pas maitriser |
+|Industrialiser le développement de la partie back-end d’une application (web, hybride, mobile ou desktop), en automatisant les processus d’assurance qualité et d’optimisation technique, pour préparer le déploiement de l’application et garantir sa mise en production. |pas maitriser |
 
 ## BLOC RNCP38606BC04 - Déployer et assurer le maintien en production d’une application (web, hybride, mobile ou desktop)
 
 | Compétences  | Commentaires de l'apprenant |
 | ------------- | ------------- |
-|Produire la documentation technique d’une application (web, hybride, mobile ou desktop) et alimenter une base de connaissances, afin de capitaliser l’information et d’effectuer un transfert de compétences auprès de ses pairs, en vue de la maintenance de l’application. | |
-|Administrer l’enregistrement et la configuration de noms de domaines et de certificats de sécurité pour des applications web, hybride ou mobile, pour fournir un accès pérenne et sécurisé aux applications concernées. | |
-|Sélectionner une plateforme d’hébergement adaptée aux exigences techniques d’une application, en prenant en compte les exigences économiques, qualitatives et réglementaires, afin que celle-ci reste adaptée aux besoins du client dans la durée. | |
-|Administrer des services d’hébergement dans un environnement dédié, cloud ou conteneurisé, en appliquant les bonnes pratiques de sécurité, afin de maintenir une continuité de service, conforme au niveau de qualité attendu. | |
-|Mettre en œuvre un système de déploiement automatisé d’une application pour différents types d’hébergement, en respectant les bonnes pratiques DevOps, pour être en mesure d’assurer une livraison en continu. | |
-|Mettre en œuvre un système de supervision d’une application et de services d’hébergement, définir des sondes et des alertes (état des services et sécurité), pour détecter, diagnostiquer et analyser l’origine de bugs, problèmes techniques, et failles de sécurité puis déployer des mesures correctives dans des délais adaptés. | |
+|Produire la documentation technique d’une application (web, hybride, mobile ou desktop) et alimenter une base de connaissances, afin de capitaliser l’information et d’effectuer un transfert de compétences auprès de ses pairs, en vue de la maintenance de l’application. |pas maitriser |
+|Administrer l’enregistrement et la configuration de noms de domaines et de certificats de sécurité pour des applications web, hybride ou mobile, pour fournir un accès pérenne et sécurisé aux applications concernées. |pas maitriser |
+|Sélectionner une plateforme d’hébergement adaptée aux exigences techniques d’une application, en prenant en compte les exigences économiques, qualitatives et réglementaires, afin que celle-ci reste adaptée aux besoins du client dans la durée. |pas maitriser |
+|Administrer des services d’hébergement dans un environnement dédié, cloud ou conteneurisé, en appliquant les bonnes pratiques de sécurité, afin de maintenir une continuité de service, conforme au niveau de qualité attendu. |pas maitriser |
+|Mettre en œuvre un système de déploiement automatisé d’une application pour différents types d’hébergement, en respectant les bonnes pratiques DevOps, pour être en mesure d’assurer une livraison en continu. |pas maitriser |
+|Mettre en œuvre un système de supervision d’une application et de services d’hébergement, définir des sondes et des alertes (état des services et sécurité), pour détecter, diagnostiquer et analyser l’origine de bugs, problèmes techniques, et failles de sécurité puis déployer des mesures correctives dans des délais adaptés. |pas maitriser |
 
